@@ -1,0 +1,15 @@
+{
+  "name": "absence-manager-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.17.1",
+    "ics": "^2.22.1"
+  }
+}
