@@ -3,8 +3,8 @@ const app = express();
 const port = 3000;
 const fs = require('fs');
 const ics = require('ics');
-const members = require('../Front-End/src/json_files/members.json');
-const absences = require('../Front-End/src/json_files/absences.json');
+const members = require('../UI/src/json_files/members.json');
+const absences = require('../UI/src/json_files/absences.json');
 
 const fileName = `${__dirname}/crew.ics`;
 
