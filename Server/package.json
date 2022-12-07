@@ -9,7 +9,7 @@
   "author": "",
   "devDependencies": {},
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "ics": "^2.22.1"
   }
 }
